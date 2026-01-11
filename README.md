@@ -1,3 +1,1 @@
-# Pic
-save anime pic
-used for personal openlist
+save anime pic,used for personal openlist
