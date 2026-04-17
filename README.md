@@ -1,1 +1,1 @@
-save pic,used for personal openlist
+save pic,used for personal.
